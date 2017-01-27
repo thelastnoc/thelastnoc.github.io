@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thelastnoc/thelastnoc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" href="/hacker/assets/css/style.css?v=04eaeba226fae03c9dea7d01cc8384cdb7ddf7e6">
+    <title>Hacker theme by pages-themes</title>
+  </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <body>
 
-### Markdown
+    <header>
+      <div class="container">
+        <h1>Hacker theme</h1>
+        <h2>Hacker is a theme for GitHub Pages.</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <section id="downloads">
+          
+            <a href="https://github.com/pages-themes/hacker/zipball/master" class="btn">Download as .zip</a>
+            <a href="https://github.com/pages-themes/hacker/tarball/master" class="btn">Download as .tar.gz</a>
+          
+          <a href="https://github.com/pages-themes/hacker" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
 
-```markdown
-Syntax highlighted code block
+    <div class="container">
+      <section id="main_content">
+        <h2 id="welcome-to-another-page">Welcome to another page</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<p><em>yay</em></p>
 
-- Bulleted
-- List
+<p><a href="./">back</a></p>
 
-1. Numbered
-2. List
+      </section>
+    </div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelastnoc/thelastnoc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
+  </body>
+</html>
