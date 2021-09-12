@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## PC Specs of thelastnoc
 
-### Markdown
+### Intel i7 6700k
+### Nvidia GeForce GTX 1080 Ti by Zotac
+### Asus Z170 Pro Gaming
+### 32 GB Corsair Ram
+### Creative Sound Blaster AE-9
+### Beyerdynamic DT 990 Pro Black Edition
+### Rode NT-1A Mic
+### 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
