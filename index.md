@@ -20,19 +20,19 @@
 ## Corsair Glaive RGB
 ```
 ## Favorite Games
-```markdown
-## Ghost of Tsushima
-## Guild Wars 1+2, World of Warcraft
-
-## Jagged Alliance 2, Desperados 1+3
-## DayZ, Hunt: Showdown, Arma 3
-
-## Total War: Shogun 2, Anno 1800
-## theHunter Classic / Call of the Wild
-
-## Legacy of Kain: Soul Reaver
-## Baphomets Fluch 1-5, Monkey Island
-```
+> Ghost of Tsushima
+> 
+> Guild Wars 1+2, World of Warcraft
+> 
+> Jagged Alliance 2, Desperados 1+3
+> 
+> DayZ, Hunt: Showdown
+>  
+> Total War: Shogun 2, Anno 1800
+> 
+> theHunter Classic / Call of the Wild
+> 
+> Legacy of Kain: Soul Reaver, Broken Sword 1-5, Monkey Island
 
 ### Maniak Mansion
 Watch our Videos on [Youtube](https://www.youtube.com/channel/UCs5pe7wlhNFRWvAF_xASGvQ) or hang out with us on [Twitch](https://www.twitch.tv/maniakmansion)
