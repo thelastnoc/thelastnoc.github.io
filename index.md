@@ -1,5 +1,7 @@
 ## Equipment
 
+*   Intel i7-6700k
+
 ```markdown
 ## Intel i7-6700k
 ## Nvidia GeForce GTX 1080 Ti
