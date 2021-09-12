@@ -8,7 +8,7 @@
 
 ## Creative Sound Blaster AE-9
 ## Beyerdynamic DT 990 Pro Black Edition
-## Rode NT-1A Mic
+## Rode NT-1A
 
 ## Lian Li O11Dynamic XL (ROG Certified)*
 ## EK Custom Loop CPU/GPU (2x 360 Radiator)
