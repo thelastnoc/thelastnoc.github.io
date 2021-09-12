@@ -1,4 +1,4 @@
-## PC Specs of thelastnoc
+## Equipment
 
 ```markdown
 ## Intel i7-6700k
@@ -19,8 +19,10 @@
 ## Corsair K95 RGB Platinum
 ## Corsair Glaive RGB
 ```
-## My Favorite Games
+## Favorite Games
 ```markdown
+## Ghost of Tsushima
+
 ## Guild Wars 1+2, World of Warcraft
 
 ## Jagged Alliance 2, Desperados 1+3
