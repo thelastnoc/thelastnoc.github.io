@@ -22,11 +22,17 @@
 ## My Favorite Games
 ```markdown
 ## Guild Wars 1+2, World of Warcraft
+
 ## Jagged Alliance 2, Desperados 1+3
+
 ## DayZ, Hunt: Showdown, Arma 3
+
 ## Baphomets Fluch 1-5, Monkey Island
+
 ## Total War: Shogun 2, Anno Serie
+
 ## theHunter Classic / Call of the Wild
+
 ## Legacy of Kain: Soul Reaver
 ```
 
