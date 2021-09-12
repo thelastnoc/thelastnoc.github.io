@@ -1,7 +1,7 @@
 ## PC Specs of thelastnoc
 
 ```markdown
-## Intel i7 6700k
+## Intel i7-6700k
 ## Nvidia GeForce GTX 1080 Ti by Zotac
 ## Asus Z170 Pro Gaming
 ## 32 GB Corsair Vengeance
@@ -21,11 +21,13 @@
 ```
 ## My Favorite Games
 ```markdown
-## DayZ
-## Hunt: Showdown
-## Guild Wars 2
-## Desperados 3
-## Jagged Alliance 
+## Guild Wars 1+2, World of Warcraft
+## Jagged Alliance 2, Desperados 1+3
+## DayZ, Hunt: Showdown, Arma 3
+## Baphomets Fluch 1-5, Monkey Island
+## Total War: Shogun 2, Anno Serie
+## theHunter Classic / Call of the Wild
+## Legacy of Kain: Soul Reaver
 ```
 
 ### Maniak Mansion
