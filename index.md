@@ -27,7 +27,7 @@
 ## Jagged Alliance 2, Desperados 1+3
 ## DayZ, Hunt: Showdown, Arma 3
 
-## Total War: Shogun 2, Anno Serie
+## Total War: Shogun 2, Anno 1800
 ## theHunter Classic / Call of the Wild
 
 ## Legacy of Kain: Soul Reaver
