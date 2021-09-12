@@ -2,7 +2,7 @@
 
 ```markdown
 ## Intel i7-6700k
-## Nvidia GeForce GTX 1080 Ti by Zotac
+## Nvidia GeForce GTX 1080 Ti
 ## Asus Z170 Pro Gaming
 ## 32 GB Corsair Vengeance
 
